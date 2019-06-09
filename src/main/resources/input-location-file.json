@@ -1,0 +1,14 @@
+[
+  { "city":"Pune",
+	"temp":{
+			"min": 20,
+			"max": 35
+			}
+  },
+  { "city":"Helsinki",
+	"temp":{
+			"min": 10,
+			"max": 20
+			}
+  }
+ ]
