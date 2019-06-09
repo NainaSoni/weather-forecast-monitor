@@ -54,7 +54,7 @@ Note:You can generate your api id from `https://home.openweathermap.org/users/si
   
 ## Demo App run including rest api call
 
-![Running App](http://g.recordit.co/UtsvHN5EIh.gif)
+![Running App](http://g.recordit.co/FCYCQzQLPs.gif)(http://g.recordit.co/UtsvHN5EIh.gif)
 
 ## Test Units Execution
 ![Test Unit](http://g.recordit.co/XArrdRP1ra.gif)
